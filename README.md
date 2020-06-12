@@ -16,7 +16,7 @@ discourage the consumption of fashionable electronics...
 *Freedom*. We release free and open-source programs so that they can 
 be studied, inspected and repaired by anyone, anywhere.
 
-Italics are mine.
+Emphasis appears in the original.
 
 ### Assumptions
 
