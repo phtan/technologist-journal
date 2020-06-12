@@ -1,0 +1,19 @@
+I've just discovered https://sourcerer.io .
+
+Apparently tries to answer "what does your code say about you?".
+
+For me, it is a step towards solving a problem I have: how can I talk about my code-contributions on GitHub, to a non-technical audience?
+
+I guess its input is your repos (which can be your public ones on GitHub - or apparently your offline repos are acceptable as input too), and its output is various graphs, visualisations (is it called "analytics") - and "fun facts".
+
+Like, apparently, my code says I am most productive on Mondays. *shrugs*
+
+@brechtmissotten asked: Just wonder if they keep your code somewhere.. in other words, might not be safe to run local repos if those are private and confidential.
+
+I replied thus:
+
+They claim that while they collect statistical info, they do not share your (possibly private) code itself... In any case, the code-base behind that website/app looks open-source, one can look through the code to see what it does.
+
+In other words - one can do an audit of that website/app, before using it.
+
+Thanks for voicing that concern. *smiley face*
