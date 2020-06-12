@@ -16,6 +16,8 @@ discourage the consumption of fashionable electronics...
 *Freedom*. We release free and open-source programs so that they can 
 be studied, inspected and repaired by anyone, anywhere.
 
+Italics are mine.
+
 ### Assumptions
 
 - The viewer of this journal is familiar enough with Github, to view
@@ -26,7 +28,7 @@ this journal.
 ### Design choices
 
 - Each line in any given entry in my journal observes a character limit
-of 72 characters. This is to make it easier for a viewer who does not
+of 72 characters. This is to make it easier to read, for a viewer who does not
 have Word Wrap enabled in his chosen software (that he uses to view
 my entries).
 - I avoid publishing my journal as a web-page or a web-site. That is,
