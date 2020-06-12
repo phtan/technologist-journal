@@ -40,3 +40,4 @@ of hassle. A .txt file works well enough for me.
 files/entries to be readable and writable with the bare-minimum 
 software. I choose to do away with software that parses Markdown,
 as much as I can.
+- Letters To The Editor can be achieved through Issues on Github.
