@@ -1,0 +1,43 @@
+### Alternatives to Github and Gitlab
+
+We know Github is closed-source.
+
+Some people are against closed-source software. Why so? Without going
+into too much details, suffice to say - and I quote Mr. Aizat Faiz's
+comment on such a topic (Aizat is apparently the creator of a web-site
+called Deep Thought [1]) - "it gets deep". [2]
+
+So, what gives?
+
+Gitlab? (It seems open-source, but according to a netizen [3], 
+contains proprietary, or closed-source, software)
+
+How about neither of the above?
+
+There are software that allows one to host a Github-like web-site.
+What's more, these software are (F)OSS.
+
+Gogs [4] and Gitea [5] - the latter is a fork of the former - are a few
+of those.
+
+And where may one find a web-site that runs, say, Gitea?
+
+I can think of two:
+
+- https://git.sdf.org/
+- https://codeberg.org/
+
+---
+
+[1] https://www.deepthoughtapp.com
+[2] Aizat has pointed me to a few points of (re)search:
+
+- Eric Raymond, head of the Open Source Initiative
+- Linus Torvalds, creator of Linux
+- "a classic film, Revolution OS, from 2001, this was almost at the 
+height of the open source vs proprietary software debate"
+- BBC Documentary on Code Breakers
+
+[3] https://social.tchncs.de/@arh/104094316875495365
+[4] https://github.com/gogs/gogs
+[5] https://github.com/go-gitea/gitea
