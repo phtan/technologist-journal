@@ -1,0 +1,19 @@
+### Interesting links, stumbled upon
+
+- DeVault, D. (2019). "Drew DeVault's Japanese Learning Resources".
+https://drewdevault.com/japanese
+- Hendershott, G. (28th July 2019). "Future of Racket".
+https://www.greghendershott.com/2019/07/future-of-racket.html
+- Hendershott, G. (3rd April 2019). "Exploding Frog".
+https://www.greghendershott.com/2019/04/exploding-frog.html
+- Meng Weng, W. (2020). "Onboarding for SMU CCLAW Assistant Research 
+Engineers and Trainees". 
+https://github.com/smucclaw/complaw/commits/master/doc/juniors
+- (Un-dated). "SG Devs". https://discord.gg/dB9pcNy
+- (Un-dated). "You can use Foam for organising your research, keeping 
+re-discoverable notes, writing long-form content and, optionally, 
+publishing it to the web." https://foambubble.github.io/foam/
+- (Un-dated). "This radio is powered by the publications made on the 
+social media platform Mastodon. The goal behind it is to make a place 
+to discover music outside your usual bubble. Hope you enjoy it!" 
+https://radio.eldritch.cafe/

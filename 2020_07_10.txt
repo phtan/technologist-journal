@@ -1,0 +1,41 @@
+About Telegram and Rose
+
+(Telegram is an app for chatting or specifically, Instant 
+Messaging. Users of Telegram can enlist the help of Rose, a bot).
+
+Rose can act against users who mention certain words. In other words, 
+administrators of chat-groups can give Rose a black-list.
+
+Administrators may command Rose as such:
+
+/addblacklist "against online stuff"
+
+So, great, someone enters in a chat-group, and says, "I am against 
+online stuff". Rose then kicks him out of the group.
+
+What does Rose say while doing so? Well, for example: 
+
+"Another one bites the dust...!
+Banned Edward.
+Reason:
+Automated blacklist action, due to a match on: against online stuff"
+
+As you can see, Rose mentions which words we have in our black-list, 
+i.e. "against online stuff".
+
+What if we want Rose to keep our black-list secret? 
+
+We can give Rose this command instead:
+
+/addblacklist "against online stuff" "Rose is not telling you the banned words"
+
+So, the next time Rose kicks someone out, we can expect Rose to say:
+
+"Another one bites the dust...!
+Banned Edward.
+Reason:
+Rose is not telling you the banned words"
+
+Or, we can, just as easily, command Rose thus:
+
+/addblacklist "against online stuff" "you done messed up, spammer. Bye!"

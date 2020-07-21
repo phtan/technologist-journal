@@ -1,0 +1,19 @@
+# The story behind Rockstar, a programming language
+
+I heard this story from Dylan Beattie's 2020 talk, "The Art of Code."
+(https://youtu.be/6avJHaC3C2U).
+
+---
+
+Various people got rather sick of jobs that called for "rockstar developers"
+
+Someone tweeted, "someone should make a programming language called Rockstar". 
+By extension, if we program in that language, we are all Rockstar developers
+
+Someone else (Dylan Beattie) saw that tweet, and thought it was 
+something he was put on Earth to do. (Yeah, quite a dramatic moment for 
+Dylan).
+
+Several drinks at a bar later, Dylan coded up the language Rockstar.
+
+https://codewithrockstar.com/online?source=/rockstar/examples/fizzbuzz.rock
