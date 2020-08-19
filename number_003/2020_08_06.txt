@@ -1,0 +1,56 @@
+## Long entry
+
+### Hyper-links for this issue
+
+- "Bitcoin Energy Consumption Index". https://digiconomist.net/bitcoin-energy-consumption/
+- "Programming Language Fragility". https://cancel.fm/blog/2019-11/language-fragility/
+- "Faster internet is impossible". https://www.lowtechmagazine.com/2008/02/faster-internet.html
+- "Web Design Guidelines for Low Bandwidth". http://www.aptivate.org/webguidelines/Guidelines.html
+- "Introduction to Gemini and the Small Internet". https://samsai.eu/post/introduction-to-gemini/
+
+### People who accept donations or other financial support
+
+- https://oliviamaia.net/en/
+- https://djrushmo.bandcamp.com/
+- https://jpmens.net/pages/about/
+- https://ko-fi.com/andregarzia
+- https://ko-fi.com/mjacek/gallery
+- https://ko-fi.com/toomanydogs
+- https://ko-fi.com/Jesibeans
+- https://www.patreon.com/amydentata
+
+### Article in a journal
+
+Ben Klemens. (2019). "Attributing Value to Patents and Trademarks in Complex Production 
+Chains". In "Journal of the Knowledge Economy". Http://rdcu.be/b2xcR
+
+My (somewhat incomplete) summary follows: 
+
+textbooks teach that a patent makes 
+money for the inventor. Mr. Ben Klemens claims that inventors can make 
+money even without a patent; but Ben does distinguish between discrete 
+products (e.g. the pharmaceutical product Prozac) and complex products 
+(e.g. software).
+
+### Program I've written
+
+I welcome and would appreciate feedback on the code that can be viewed
+at either of the following URLs:
+
+- https://github.com/phtan/footoe
+- https://codeberg.org/phtan/footoe
+
+I'm new to Python and maybe I've misssed some conventions, or a so-called
+"Pythonic way" of doing things.
+
+### Stuff that interested me
+
+- "Urban Poems from Burma". http://www.warscapes.com/poetry/urban-poems-burma
+- "Learn Japanese". https://www.tofugu.com/learn-japanese/
+- "Gary Friedman, Composer". http://garyfriedmanmusic.net/
+- "Bret Victor The Future of Programming". https://youtu.be/8pTEmbeENF4
+- "On Computational Law: Why the History of Computing Could Be the Future of Law - Meng Weng Wong". 
+https://mobile.twitter.com/ISOC_Live/status/1288111102652383234
+- "This is a group to coordinate East Coast Beach cleanups". https://t.me/eastcoastbeachplan
+- "We aim to provide our clients with the best possible counsellor to 
+assist them with their therapeutic needs". https://safespace.sg/about/

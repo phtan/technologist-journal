@@ -1,0 +1,44 @@
+## (satire) Should I do Tinder-driven career development?
+
+So the objective of this exercise is to gather data on which tech 
+companies are most attractive to girls on Tinder.
+
+I will set up multiple Tinder accounts, each claiming that I work for a
+respective company in GAFAM + FAANG: Google, Amazon, Facebook, 
+Microsoft, Netflix, Apple.
+
+To make things more interesting, let me create an corresponding Tinder 
+account for each of the following Sg-based company:
+
+- Aida Technologies Pte Ltd
+- Tusitala (RLS) Pte Ltd
+
+For each account, I will swipe right for 200 Tinder-girls, to indicate 
+that I want to match with them.
+
+I will check each account after 31 days, to see how many Tinder-girls 
+agreed to match with me.
+
+Then I will see which account has the most number of matches, and apply 
+for a job at the tech company that I associated with the "winning" Tinder-account.
+
+@obwama pointed out that attractiveness may vary based on age of user 
+and time/day.
+
+I'll be the first to admit that the above experiment falls short of 
+scientific rigour. (I have half a mind to delete any mention of such
+an experiment).
+
+But we can say the same about dates "in real life". Attractiveness may 
+vary based on the venue of the date, the menstrual cycle of the girl and so on.
+
+So is the following statement still invariably true?  "holding a job 
+at Google absolutely, always, unfailingly impresses 
+Tinder dates".
+
+I am trying to prove that such a statement is false.
+I am thinking of trying something called "reductio ad absurdum": taking 
+an argument to its logical extreme, and showing that such a logical 
+extreme is absurd, and therefore the argument must be false.
+
+But I'm a newcomer to reductio ad absurdum.
