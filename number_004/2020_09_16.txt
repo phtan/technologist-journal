@@ -1,0 +1,62 @@
+### Computer-ey Links
+
+1. https://theanimatedweb.com/
+2. https://slingcode.net/
+3. https://gamedevacademy.org/game-design-tutorial/
+
+---
+
+### Other links
+
+1. https://dadsnotebook.com/about/
+2. https://www.coursera.org/learn/film-images
+3. https://www.coursera.org/learn/moralities
+4. https://booktique.weebly.com/covid-19-mail-order.html
+
+---
+
+### Tip jar(s)
+
+- https://ko-fi.com/explorewilder
+- https://www.patreon.com/shamusyoung
+- https://www.patreon.com/nitter
+- https://www.patreon.com/sulee
+- https://www.giving.sg/art-photography-centre-ltd/savedeck
+- https://joinpeertube.org/en_US/roadmap
+- https://cybre.space/@Pulsaare/104847108612885956
+- https://cybre.space/@vantablack/104741582141001953
+- https://mvlouisemichel.org/
+- https://www.map.org.uk/
+- Https://www.bromite.org
+- https://gparted.org/donations.php
+- https://small-tech.org/fund-us/#other-funding
+- https://vivita.sg/#collaborate
+- https://www.beardedladyjournalism.com/donate-links/
+
+---
+
+### Recording or tracking movies I've watched
+
+Why was I looking at Ruby on Rails?
+
+I want to track movies I've watched. I know existing web-sites like 
+icheckmovies.com and letterboxd.com.
+
+But using those web-sites means that my data lives on their servers.
+
+So I considered building my own movie-tracking website, with RoR.
+
+Then I got too lazy to bother with security vulnerabilities related to 
+RoR and rubygems.
+
+So now, I've more or less settled on using MySQL to track my watched movies.
+
+I just have to read up on SQL commands.
+
+Something like the following should scratch my itch:
+
+CREATE "Train to Busan 2" in TABLE "movies" 
+
+CREATE "14 August 2020, Train to Busan 2" in TABLE "date_i_watched"
+
+I figure I have no need for RoR, in this case.
