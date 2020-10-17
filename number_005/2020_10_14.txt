@@ -1,0 +1,24 @@
+Re. The article "Faster Internet is impossible", in Low Tech Magazine.
+URL: https://www.lowtechmagazine.com/2008/02/faster-internet.html
+
+Since the article mentions applications gobbling up any available bandwidth- 
+
+I thought it worthwhile to mention this developer, Nolan Lawson. His 
+public writings (i.e. blog) feature his interest in what he calls "web performance".
+
+I've met developers - whom I shall not name - who say, "we are going to 
+eat up the resources we have on the user's computer because we can 
+afford it". And then I've stumbled onto Nolan's blog (and made a minor 
+Pull Request to one of his repos).
+
+An example of his blog-post, below.
+
+"I’m very satisfied with Svelte v2. It’s fast, lightweight, and does 
+everything I need it to....
+
+"And oh yeah: Svelte really is lightweight. Pinafore only loads 32KB of 
+compressed JavaScript for the landing page, and 137KB for the Home 
+timeline. The total size of all JS assets is under 300KB compressed..."
+
+Source of the above quotes: 
+https://nolanlawson.com/2019/06/02/one-year-of-pinafore/

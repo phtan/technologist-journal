@@ -1,0 +1,18 @@
+Did you guys know you can do the following with an email-address at Gmail?
+
+Suppose you have the email-address john.doe@gmail.com. 
+
+And suppose you go to a Meetup that asks for your email-address. You can 
+give it as: 
+
+john.doe+meetup@gmail.com
+
+And for a conference:
+
+john.doe+conf@gmail.com
+
+Any emails sent to the above two email-addresses appear in the same inbox.
+
+Neat, huh?
+
+This way, you can find out how someone got your email address.
