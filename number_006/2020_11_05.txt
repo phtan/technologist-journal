@@ -1,0 +1,20 @@
+What kind of software do I make?
+
+Well, previously I did commissioned work.
+
+Now, I am just coding programs that can help me out. (I.e. self-commissioned)
+
+Here's a bit about my work:
+
+I've contributed to programs in the programming languages C++ and Java, to name a few.
+
+My previous employers include:
+
+- Singapore-MIT Alliance for Research and Technology, or SMART. ((https://smart.mit.edu/ ).
+
+At SMART, I worked on a program that simulated traffic (eg. Cars, freight vehicles, etc).
+
+- Asia Centre for Social Entrepreneurship & Philanthropy, or ACSEP.
+ ( https://bschool.nus.edu.sg/acsep/aboutus/thought-leadership/ ).
+
+At ACSEP, I made a custom plug-in for WordPress that my supervisor wanted.
