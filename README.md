@@ -27,10 +27,10 @@ this journal.
 
 ### Design choices
 
-- Each line in any given entry in my journal observes a character limit
+- ~~Each line in any given entry in my journal observes a character limit
 of 72 characters. This is to make it easier to read, for a viewer who does not
 have Word Wrap enabled in his chosen software (that he uses to view
-my entries).
+my entries).~~
 - I avoid publishing my journal as a web-page or a web-site. That is,
 with a .html extension. Because I want to write an entry using 
 bare-minimum software on Windows OS. (For now, that software is
