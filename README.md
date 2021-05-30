@@ -1,23 +1,6 @@
 # technologist-journal
 Journal of a part-time technologist
 
-### Philosophy
-
-I am influenced by [the software-building rules of Devine and Rekka 
-of Hundred Rabbits](https://100r.co/site/philosophy.html).
-
-I quote:
-
-> *Offline First*.  We build and design our software to work offline 
-first. They will never need online resources to function properly ...
-*Past Proofing*. We build simple tools to tackle specific tasks... 
-We target 20 years old hardware as to encourage recyclism and 
-discourage the consumption of fashionable electronics...
-*Freedom*. We release free and open-source programs so that they can 
-be studied, inspected and repaired by anyone, anywhere.
-
-Emphasis appears in the original.
-
 ### Assumptions
 
 - The viewer of this journal is familiar enough with Github, to view
@@ -41,3 +24,23 @@ files/entries to be readable and writable with the bare-minimum
 software. I choose to do away with software that parses Markdown,
 as much as I can.
 - Letters To The Editor can be achieved through Issues on Github.
+- Github provides [a RSS feed](https://github.com/phtan/technologist-journal/commits.atom)
+ for the commits in this repository. So readers can subscribe, if they like.
+
+
+### Philosophy
+
+I am influenced by [the software-building rules of Devine and Rekka 
+of Hundred Rabbits](https://100r.co/site/philosophy.html).
+
+I quote:
+
+> *Offline First*.  We build and design our software to work offline 
+first. They will never need online resources to function properly ...
+*Past Proofing*. We build simple tools to tackle specific tasks... 
+We target 20 years old hardware as to encourage recyclism and 
+discourage the consumption of fashionable electronics...
+*Freedom*. We release free and open-source programs so that they can 
+be studied, inspected and repaired by anyone, anywhere.
+
+Emphasis appears in the original.
