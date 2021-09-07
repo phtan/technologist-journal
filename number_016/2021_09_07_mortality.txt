@@ -1,0 +1,16 @@
+### using the Internet as a mortal
+
+
+A little while back, I got into a discussion on the Internet, about how to hand over stuff once we die (note: I am not suicidal).
+
+
+What stuff? Passwords, blog-posts, domain names and so on. If I am running an online community, I'd want someone else to take over my role and duties, in the event of my death.
+
+
+Having done some brain-storming, a few guys decided to share passwords with others, through a password manager. So others can know the password if one dies.
+
+
+I had an account with Google. And it turns out Google has a Inactive Account Manager, or some such.
+
+
+I know Mastodon allows an account to become "In Memoriam". But as far as I can tell, there is no automatic way to tell your account to become "In Memoriam" when you die. (Someone else has to do that for you).
