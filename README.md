@@ -19,10 +19,10 @@ with a .html extension. Because I want to write an entry using
 bare-minimum software on Windows OS. (For now, that software is
 Notepad++). And because I find (manually) writing HTML files too much 
 of hassle. A .txt file works well enough for me.
-- I avoid using Markdown for entries in my journal. I want my 
+- ~~I avoid using Markdown for entries in my journal. I want my 
 files/entries to be readable and writable with the bare-minimum 
 software. I choose to do away with software that parses Markdown,
-as much as I can.
+as much as I can.~~
 - Letters To The Editor can be achieved through Issues on Github.
 - Github provides [a RSS feed](https://github.com/phtan/technologist-journal/commits.atom)
  for the commits in this repository. So readers can subscribe, if they like.
